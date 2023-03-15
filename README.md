@@ -2,10 +2,10 @@
 
 ![](https://github.com/iccv23anonymous/Enhanced-Meta-Label-Correction/blob/main/Teacher.jpg?raw=true)
 
-## Description :tw-2139:
+## Description :information_source:
 This is an official PyTorch implementation of the "Enhanced Meta Label Correction for Coping with Label Corruption" paper.
 
-  * [Description](#description-tw-2139)
+  * [Description](#description-information_source)
   * [Results](#results-chart_with_upwards_trend)
   * [Running the Code](#running-the-code-runner)
     + [Training](#training-weight_lifting)
@@ -28,7 +28,7 @@ CIFAR-100 with 1k clean samples:
 |:--- |:---:|:---:|:---:|:---:|
 |MLC|66.5 | 52.4 | 18.9 | 14.2 |
 |Previous SOTA| 72.5 | 65.4 | 55.22 | 16.7 | 
-|EMLC|**73.27** |**68.98 **|**59.34 **|**53.78**|
+|EMLC|**73.27** |**68.98**|**59.34**|**53.78**|
 
 Clothing1M:
 
